@@ -7,7 +7,7 @@
     </update>
   </info>
   <files>
-    <fine name="file1.xml" url="https://raw.githubusercontent.com/lilithbell/homebrewstuff/master/lilithbell/file1.index" />
-    <fine name="file2.xml" url="https://raw.githubusercontent.com/lilithbell/homebrewstuff/master/lilithbell/file2.index" />
+    <fine name="AhsriRace.xml" url="https://raw.githubusercontent.com/lilithbell/homebrewstuff/master/lilithbell/AhsriRace.index" />
+    <fine name="OutcastBackground.xml" url="https://raw.githubusercontent.com/lilithbell/homebrewstuff/master/lilithbell/OutcastBackground.index" />
   </files>
 </index>
