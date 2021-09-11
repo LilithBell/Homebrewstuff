@@ -3,7 +3,7 @@
 <elements>
 
  <info>
-   <update version="1.0.0">
+   <update version="0.0.1">
      <file name="AhsriRace.xml" url="https://url-to-the-repository-file.xml"/>
    </update>
  </info>
