@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<index>
+  <info>
+    <name>LilithBell</name>
+    <update version="1.0.0">
+      <file name ="lilithbell.index" url="https://raw.githubusercontent.com/lilithbell/homebrewstuff/master/lilithbell.index" />
+    </update>
+  </info>
+  <files>
+    <fine name="file1.xml" url="https://raw.githubusercontent.com/lilithbell/homebrewstuff/master/lilithbell/file1.index" />
+    <fine name="file2.xml" url="https://raw.githubusercontent.com/lilithbell/homebrewstuff/master/lilithbell/file2.index" />
+  </files>
+</index>
