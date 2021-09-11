@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf=8"?>
+
+<elements>
+
+ <info>
+   <update version="1.0.0">
+     <file name="OutcastBackground.xml" url="https://url-to-the-repository-file.xml"/>
+   </update>
+ </info>
+ <element name="Outcast" type="Background" source="https://fluerdemal.wordpress.com/2014/09/21/5e-background-outcast/" id="ID_AUTHOR_SOURCE_TYPE_NAME">
+   <description>
+    <p>This is the homebrew Outcast background uwu I will update this one day.</p>
+   <h4>Race Name Traits</h4>
+   <p>Before you took to adventuring, you were banished from your homeland for unforgivable crimes (rightly or wrongly). Since then you have survived by hiding the nature of your crimes from others, and making a new life for yourself – most likely under a new name. You are quick to notice people’s interest in you, and a practiced in convincing people that you are no-one of interest.</p>
+   <ul class="unstyled">
+				<li><strong>Skill Proficiencies:</strong> Deception and Insight</li>
+				<li><strong>Tool Proficiencies:</strong> One Tool Kit</li>
+				<li><strong>Languages:</strong> One Additional Language</li>
+				<li><strong>Equipment:</strong> A set of Traveler’s Clothes, a Memento of your lost life, a tool kit to match your proficiency, a beltpouch with 10sp.</li>
+			</ul>
+			<h5>Origin</h5>
+			<p>You’ve been to strange places and seen things that others cannot begin to fathom. Consider some of the distant lands you have visited, and how they impacted you. You can roll on the following table to determine your occupation during your time in the wild, or choose one that best fits your character.</p>
+			<table>
+				<thead>
+					<tr><td class="col-10">d10</td><td>Origin</td></tr>
+				</thead>
+				<tr><td>1</td><td>Forbidden Love</td></tr>
+				<tr><td>2</td><td>Insanity</td></tr>
+				<tr><td>3</td><td>Heretical in Religion or Knowledge</td></tr>
+				<tr><td>4</td><td>Spiritually Blasphemous</td></tr>
+				<tr><td>5</td><td>Physically or Spiritually Unclean</td></tr>
+				<tr><td>6</td><td>Sexual Deviant</td></tr>
+				<tr><td>7</td><td>Outlaw</td></tr>
+				<tr><td>8</td><td>Oathbreaker</td></tr>
+			</table>
+	        <h5>Suggested Characteristics</h5>
+			<p>Once you had a life, but that was taken away from you by the decree of the authorities for crimes against the state, the gods, or nature itself. As a result you are always aware of how ephemeral your place in society can be, and how valuable true friendship and loyalty are. You also hold your secrets close to your vest, only revealing them to the closest of friends or under the most dire of circumstances, afraid that they will result in your banishment once more.</p>
+		</description>
+		
+  </element>
+</elements>

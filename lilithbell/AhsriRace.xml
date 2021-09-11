@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf=8"?>
+
+<elements>
+
+ <info>
+   <update version="1.0.0">
+     <file name="AhsriRace.xml" url="https://url-to-the-repository-file.xml"/>
+   </update>
+ </info>
+ <element name="Ahsri" type="Race" source="https://www.dandwiki.com/wiki/Ahsri_(5e_Race)" id="ID_AUTHOR_SOURCE_TYPE_NAME">
+   <description>
+    <p>This is the homebrew Ahsri race uwu I will update this one day.</p>
+   <h4>Race Name Traits</h4>
+   <p>
+     <span class="feature">Agility Score Increase.</span>Your Wisdom score increases by +2, and either your Dexterity score or Strength score increases by +1.<br />
+	 <span class="feature">Age.</span>Ahsri have a lifespan comparable to humans.<br />
+     <span class="feature">Alignment.</span>Ashri culture values pragmatism and skill, thus they tend to adopt neutral aligments. Depending on their perspective towards the laws of nature, a particular society can tend towards lawful or chaotic aligment.<br />
+     <span class="feature">Size.</span>Medium.<br />
+     <span class="feature">Speed.</span>Your base walking speed is 30 ft.<br />
+     <span class="feature">Darkvision.</span>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.<br />
+     <span class="feature">Mother's Blessing.</span>Through your connection to the Mother and nature, you are innately imbued with the power to cast certain spells as well as the feature of an animal whose spirit resembles your personality. You gain 1 Animal Trait and 1 Bestowed Spirit from the lists below at 1st level. Wisdom is used for the spellcasting modifier for any spell gained by this feature. Spells from Bestowed Spirit are gained in order at 3rd and 5th level. Spells gained by this feature ignore material components. These spells can be used once, and regain use of these spells after finishing a long rest.<br />
+     <span class="feature">Animal Trait.</span>You may choose one of the following:<br />
+     <span class="feature">- Heightened Hearing:</span>You add your proficiency bonus to Perception checks that rely on hearing, even if you have no proficiency in the Perception skill. If you have proficiency in the Perception skill, add double your proficiency bonus to Perception checks that rely on hearing.<br />
+     <span class="feature">- Heightened Smell:</span>You add your proficiency bonus to Perception checks that rely on smell, even if you have no proficiency in the Perception skill. If you have proficiency in the Perception skill, add double your proficiency bonus to Perception checks that rely on smell.<br />
+     <span class="feature">- Heightened Sight:</span>You add your proficiency bonus to Perception checks that rely on sight, even if you have no proficiency in the Perception skill. If you have proficiency in the Perception skill, add double your proficiency bonus to Perception checks that rely on sight.<br />
+     <span class="feature">- Sure-Footed:</span>You have advantage on Strength and Dexterity saving throws made against effects that would knock you prone.<br />
+     <span class="feature">- Rampage:</span>When reducing a creature to 0 hit points with a melee attack on your turn, you can take a bonus action to move up to half your speed and make an additional attack.<br />
+     <span class="feature">- Hold Breath:</span>You can hold your breath for up to 15 minutes.<br />
+     <span class="feature">- Swim:</span>You gain a swim speed of 30 feet.<br />
+     <span class="feature">- Climb:</span>You gain a climb speed of 30 feet.<br />
+     <span class="feature">- Stride:</span>Your base movement speed increases to 40 feet.<br />
+     <span class="feature">- Serpentine/Lithe:</span>Your Dexterity increases by +1. As normal, you can't increase an ability score above 20 using this feature.<br />
+     <span class="feature">- Boar-ish:</span>Your Strength increases by +1. As normal, you can't increase an ability score above 20 using this feature.<br />
+     <span class="feature">- Beast of Burden:</span>You are considered to be one size category larger for the purpose of determining carrying capacity.<br />
+     <span class="feature">- Mimicry:</span>You can mimic simple sounds you’ve heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful Insight check, contested by your deception check.<br />
+     <span class="feature">- Relentless:</span>When you would be reduced to 0 hit points but not killed outright, you are reduced to 1 hit point instead. You can't use this trait again until you finish a long rest.<br />
+     <span class="feature">Bestowed Spirit:</span>The Mother bonds a nature spirit to an Ahsri at birth. These spirits rarely communicate, but freely lend a portion of their power. They are their Ahsri’s constant companion. Choose one from the following spell lists:<br />
+     <span class="feature">- Lore Spirit:</span>You have proficiency in two additional skills.<br />
+     <span class="feature">- Spirit of Fire and Light:</span>control flames, faerie fire, flaming sphere<br />
+     <span class="feature">- Spirit of Water:</span>shape water, cure wounds, lesser restoration<br />
+     <span class="feature">- Spirit of the Moon:</span>guidance, charm person, moonbeam<br />
+     <span class="feature">- Spirit of Fury:</span>primal savagery, longstrider, flame blade<br />
+     <span class="feature">- Spirit of the Hunt:</span>druidcraft, snare, pass without trace<br />
+     <span class="feature">- Spirit of Air:</span>gust, fog cloud, warding wind<br />
+     <span class="feature">- Spirit of the Forest:</span>shillelagh, entangle, barkskin<br />
+     <span class="feature">- Spirit of the Earth:</span>mold earth, earth tremor, spike growth<br />
+     <span class="feature">- Spirit of the Sky:</span>thunderclap, thunderwave, skywrite<br />
+     <span class="feature">- Spirit of Ice:</span>frostbite, ice knife, hold person<br />
+     <span class="feature">- Spirit of Domination:</span>thorn whip, animal friendship, beast sense<br />
+     <span class="feature">- Spirit of Kinship:</span>infestation, speak with animals, animal messenger<br />
+     <span class="feature">- Spirit of Stone:</span>magic stone, earth tremor, earthbind<br />
+     <span class="feature">- Spirit of Serenity:</span>resistance, healing word, healing spirit<br />
+     <span class="feature">- Spirit of Ingenuity:</span>mending, create or destroy water, heat metal<br />
+     </p>
+	</description>
+  </element>
+</elements>
