@@ -4,7 +4,7 @@
 
  <info>
    <update version="0.0.1">
-     <file name="AhsriRace.xml" url="https://github.com/LilithBell/Homebrewstuff/blob/main/lilithbell.index" />
+     <file name="AhsriRace.xml" url="https://github.com/LilithBell/Homebrewstuff/blob/14fcc22b98745255b2b8b2d9d180e29f0e8dd445/lilithbell/AhsriRace.xml" />
    </update>
  </info>
  <element name="Ahsri" type="Race" source="DND Wiki" id="ID_RACE_AHSRI">
