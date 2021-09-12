@@ -4,7 +4,7 @@
 
  <info>
    <update version="0.0.1">
-     <file name="AhsriRace.xml" url="https://www.dandwiki.com/wiki/Ahsri_(5e_Race"/>
+     <file name="AhsriRace.xml" url="https://www.dandwiki.com/wiki/Ahsri_(5e_Race" />
    </update>
  </info>
  <element name="Ahsri" type="Race" source="DND Wiki" id="ID_RACE_AHSRI">
