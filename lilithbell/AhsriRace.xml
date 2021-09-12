@@ -7,7 +7,7 @@
      <file name="AhsriRace.xml" url="https://url-to-the-repository-file.xml"/>
    </update>
  </info>
- <element name="Ahsri" type="Race" source="https://www.dandwiki.com/wiki/Ahsri_(5e_Race)" id="ID_AHSRI_RACE">
+ <element name="Ahsri" type="Race" source="https://www.dandwiki.com/wiki/Ahsri_(5e_Race)" id="ID_RACE_AHSRI">
    <description>
     <p>This is the homebrew Ahsri race uwu I will update this one day.</p>
    <h4>Race Name Traits</h4>
