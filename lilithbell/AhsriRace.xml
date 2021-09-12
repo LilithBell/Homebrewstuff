@@ -4,10 +4,10 @@
 
  <info>
    <update version="0.0.1">
-     <file name="AhsriRace.xml" url="https://url-to-the-repository-file.xml"/>
+     <file name="AhsriRace.xml" url="https://www.dandwiki.com/wiki/Ahsri_(5e_Race"/>
    </update>
  </info>
- <element name="Ahsri" type="Race" source="https://www.dandwiki.com/wiki/Ahsri_(5e_Race)" id="ID_RACE_AHSRI">
+ <element name="Ahsri" type="Race" source="D&D Wiki" id="ID_RACE_AHSRI">
    <description>
     <p>This is the homebrew Ahsri race uwu I will update this one day.</p>
    <h4>Race Name Traits</h4>
